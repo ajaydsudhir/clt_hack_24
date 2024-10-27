@@ -11,7 +11,6 @@ GreenLoop is a web application that encourages recycling by allowing users to lo
 - **Recycling Guide:** Access helpful tips and guidelines to ensure proper recycling.
 - **Activity History:** View summaries of your recycling activities and monitor your achievements.
 - **Profile Customization:** Personalize your profile and set your sustainability goals.
-- **Community Leaderboard:** Compete with others and see your rank among peers.
 - **Mobile-Friendly Design:** Access the website easily on both desktop and mobile devices.
 
 ### Technologies Used
